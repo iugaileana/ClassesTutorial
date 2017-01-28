@@ -1,0 +1,6 @@
+c:\users\ileana iuga\documents\visual studio 2015\Projects\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.exe.config
+c:\users\ileana iuga\documents\visual studio 2015\Projects\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.csprojResolveAssemblyReference.cache
+c:\users\ileana iuga\documents\visual studio 2015\Projects\ClassesTutorial\ClassesTutorial\obj\Debug\MainWindow.g.cs
+c:\users\ileana iuga\documents\visual studio 2015\Projects\ClassesTutorial\ClassesTutorial\obj\Debug\App.g.cs
+c:\users\ileana iuga\documents\visual studio 2015\Projects\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial_MarkupCompile.cache
+c:\users\ileana iuga\documents\visual studio 2015\Projects\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial_MarkupCompile.lref
